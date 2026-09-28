@@ -6,3 +6,5 @@
     "directory": "./public/"
   }
 }
+
+// Trigger a fresh Workers Build deployment.
